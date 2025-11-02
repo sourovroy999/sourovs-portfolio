@@ -19,7 +19,7 @@ import { RiContactsBook2Fill } from "react-icons/ri";
 const Profile = () => {
     return (
         <div className='ml-10 relative'>
-            <div className='w-[360px] rounded-2xl h-[500px] shadow-2xl'>
+            <div className='w-[360px] rounded-2xl h-[500px] shadow-2xl bg-white'>
                 <img className='w-[360px] rounded-t-2xl ' src={upimg} alt="" />
 
                 <div className=' items-center  flex flex-col justify-center'>

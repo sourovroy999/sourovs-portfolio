@@ -7,7 +7,7 @@ import Profile from './Profile';
 
 const MainLayout = () => {
     return (
-        <div className='pt-10'>
+        <div className='pt-10 bg-base-300 h-[100vh] '>
             {/* <Navbar /> */}
 
             <div className='flex '>
@@ -23,7 +23,7 @@ const MainLayout = () => {
 
                 <Profile />
                 </div>
-                <div className='ml-20 w-[540px] mt-0 p-3 '>
+                <div className='ml-20 w-[540px] bg-white rounded-2xl  h-[90vh]  overflow-y-auto vertical-scroll mt-0 p-6 '>
                     <Outlet />
                 </div>
             </div>

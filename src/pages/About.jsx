@@ -57,7 +57,7 @@ Address London, UK */}
                         </div>
 
                            <div className='font-semibold text-[#323232]'>Front-end</div>
-                        <div>
+                        <div className='text-[14px]'>
                             Modern and mobile-ready website that will help you reach all of your marketing.
                         </div>
 
@@ -70,7 +70,7 @@ Address London, UK */}
                         </div>
 
                            <div className='font-semibold text-[#323232]'>Front-end</div>
-                        <div>
+                     <div className='text-[14px]'>
                             Modern and mobile-ready website that will help you reach all of your marketing.
                         </div>
 
@@ -83,7 +83,7 @@ Address London, UK */}
                         </div>
 
                            <div className='font-semibold text-[#323232]'>Front-end</div>
-                        <div>
+                    <div className='text-[14px]'>
                             Modern and mobile-ready website that will help you reach all of your marketing.
                         </div>
 
@@ -96,7 +96,7 @@ Address London, UK */}
                         </div>
 
                            <div className='font-semibold text-[#323232]'>Front-end</div>
-                        <div>
+                     <div className='text-[14px]'>
                             Modern and mobile-ready website that will help you reach all of your marketing.
                         </div>
 
