@@ -19,11 +19,11 @@ import { RiContactsBook2Fill } from "react-icons/ri";
 const Profile = () => {
     return (
         <div className='ml-10 relative'>
-            <div className='w-[360px] rounded-2xl h-[500px] shadow-2xl bg-white'>
-                <img className='w-[360px] rounded-t-2xl ' src={upimg} alt="" />
+            <div className='w-[390px] rounded-2xl h-[500px] shadow-2xl overflow-hidden bg-white '>
+                <img className='w-[390px] h-[240px]  object-cover  rounded-t-2xl hover:scale-103 transition-transform duration-1000 ease-in-out  ' src={upimg} alt="" />
 
                 <div className=' items-center  flex flex-col justify-center'>
-                    <img className='w-20 h-20 rounded-full -mt-6' src={cartoon} alt="" />
+                    <img className='w-20 h-20 rounded-full -mt-6 z-40' src={cartoon} alt="" />
                     <div className='text-2xl font-semibold my-1'>
                         Sourov roy
                     </div>

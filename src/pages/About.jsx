@@ -11,24 +11,24 @@ const About = () => {
             </div>
             <hr className='my-6'/>
             <div>
-            <span className='font-semibold text-gray-500 '>Hello! I’m Donald Wellborn.</span>
+            <span className='font-semibold text-gray-500 '>Hello! I’m Sourov Roy.</span>
           
             <div className='text-[#646464] text-[14px]'>
 
-Back-end & Front-end developer from UK, London. I have rich experience in wordpress, also I am good at Magento. I love to talk with you about our unique.
+Back-end & Front-end developer from Bangladesh. I have rich experience in Mern Stack, also I am good at Webflow. I love to talk with you about your unique project.
        
             <div className='grid grid-cols-2 mt-4'>
                 <div>
-                    Age....45
+                    Age....25
                 </div>
                 <div>
-                    Residence....UK
+                    Residence....Bangladesh
                 </div>
                 <div>
                    Freelance....Available
                 </div>
                 <div>
-                   Address....London, UK 
+                   Address....Bangladesh 
                 </div>
             </div>
                  </div>

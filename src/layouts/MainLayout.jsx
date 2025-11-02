@@ -23,7 +23,7 @@ const MainLayout = () => {
 
                 <Profile />
                 </div>
-                <div className='ml-20 w-[540px] bg-white rounded-2xl  h-[90vh]  overflow-y-auto vertical-scroll mt-0 p-6 '>
+                <div className='ml-10 w-[600px] bg-white rounded-2xl  h-[90vh]  overflow-y-auto vertical-scroll mt-0  p-6 py-6   '>
                     <Outlet />
                 </div>
             </div>

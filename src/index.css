@@ -26,11 +26,13 @@
 
 }
 
-
+::-webkit-scrollbar-track{
+  margin-block: 0.5em;
+}
 .vertical-scroll::-webkit-scrollbar-thumb {
   background: black;
   /* border: 0.25em solid hsl(120 75% 50% / 1); */
-  border-radius: 80vw;
+  border-radius: 90vw;
 }
 
 .vertical-scroll::-webkit-scrollbar-thumb:hover {

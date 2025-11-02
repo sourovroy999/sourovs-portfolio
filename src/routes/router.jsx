@@ -27,6 +27,10 @@ export const router=createBrowserRouter([
                
             },
             {
+                path:'/resume',
+                element:<p>
+                    resumeeee
+                </p>
 
             }
         
