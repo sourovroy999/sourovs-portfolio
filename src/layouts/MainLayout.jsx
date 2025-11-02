@@ -12,15 +12,18 @@ const MainLayout = () => {
 
             <div className='flex '>
 
-                <div>
+                <div className=''>
                     <SideBar />
                 </div>
                 {/* <div className='ml-20 '>
                     i am sourov roy
                     <img className='w-20 h-20 rounded-full' src={cartoon} alt="" />
                 </div> */}
-                <Profile/>
-                <div className='ml-20 border-2 w-[300px] mt-10 p-3'>
+                <div className='hidden'>
+
+                <Profile />
+                </div>
+                <div className='ml-20 w-[540px] mt-0 p-3 '>
                     <Outlet />
                 </div>
             </div>

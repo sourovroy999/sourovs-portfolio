@@ -55,12 +55,12 @@ const Profile = () => {
 
                 </div>
 
-                <div className='w-full border-t grid grid-cols-2 text-center px-2 mb-6 py-3 absolute bottom-0   '>
+                <div className='w-full border-t grid grid-cols-2 text-center px-2 mb-6 py-3 absolute bottom-0  uppercase '>
 
-                    <div className='flex justify-center items-center gap-2 hover:text-amber-300 '>Download Cv 
+                    <div className='flex justify-center items-center text-[13px] gap-2 hover:text-amber-300 '>Download Cv 
                         <IoMdCloudDownload className='text-xl '/>
                     </div>
-                    <div className='flex justify-center items-center gap-2 hover:text-amber-300 '>Contact me <RiContactsBook2Fill/> </div>
+                    <div className='flex justify-center items-center gap-2 hover:text-amber-300 text-[13px]'>Contact me <RiContactsBook2Fill/> </div>
                 </div>
 
 
